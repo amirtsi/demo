@@ -1,3 +1,3 @@
 .env
 
-hello word!!!
+hello word!
